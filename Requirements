@@ -1,0 +1,5 @@
+# No external dependencies required
+# This project uses only Python standard library modules:
+# - tkinter (GUI)
+# - json (data formatting)
+# - re (regular expressions)
